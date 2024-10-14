@@ -1,0 +1,78 @@
+Backpacks	1752.86,Black,Blue,Summer,Unisex,724
+Bangle	1793.06,Gold,Steel,Summer,Women,85
+Bath Robe	944.60,White,Pink,Winter,Women,20
+Blazers	3971.50,Black,Olive,Summer,Men,8
+Body Lotion	228.33,Yellow,White,Spring,Women,6
+Body Wash and Scrub	1250.00,Silver,None,Spring,Men,1
+Booties	129.00,White,Pink,Summer,Boys,12
+Boxers	496.98,Blue,White,Summer,Men,52
+Bra	651.85,Black,White,Summer,Women,477
+Briefs	264.62,Black,White,Summer,Men,849
+Caps	737.02,Black,Blue,Summer,Unisex,283
+Casual Shoes	2853.33,Black,Brown,Summer,Men,2845
+Clutches	1392.49,Black,Gold,Summer,Women,290
+Compact	440.51,Skin,Beige,Spring,Women,49
+Cufflinks	1093.77,Steel,Black,Summer,Men,106
+Cushion Covers	358.00,Yellow,None,Fall,Unisex,1
+Dresses	2041.77,Black,Blue,Summer,Women,464
+Dupatta	1039.97,Green,Off White,Summer,Women,116
+Earrings	1484.00,Silver,Gold,Summer,Women,416
+Eye Cream	313.50,Gold,White,Spring,Women,6
+Eyeshadow	430.07,Green,Multi,Spring,Women,42
+Flip Flops	775.35,Black,Blue,Summer,Men,914
+Formal Shoes	3315.70,Black,Brown,Summer,Men,637
+Foundation and Primer	475.92,Skin,Beige,Spring,Women,76
+Fragrance Gift Set	1692.46,Black,White,Spring,Men,57
+Free Gifts	3085.51,Black,White,Winter,Men,91
+Hat	1026.33,Black,Red,Fall,Unisex,3
+Headband	262.14,Black,White,Fall,Unisex,7
+Heels	1456.87,Black,Brown,Winter,Women,1323
+Jackets	3139.31,Black,Blue,Fall,Men,258
+Jeans	1838.35,Blue,Black,Summer,Men,609
+Jewellery Set	1779.12,Gold,White,Winter,Women,58
+Jumpsuit	2842.50,Blue,Olive,Summer,Women,16
+Kajal and Eyeliner	381.14,Black,Blue,Spring,Women,102
+Lehenga Choli	8045.00,Red,Brown,Summer,Women,4
+Lip Gloss	435.38,Pink,Brown,Spring,Women,144
+Lip Liner	371.60,Brown,Pink,Spring,Women,48
+Lipstick	449.91,Brown,Pink,Spring,Women,315
+Lounge Shorts	559.00,Black,Navy Blue,Summer,Men,34
+Lounge Tshirts	1283.00,Black,Brown,Summer,Women,3
+Makeup Remover	188.50,White,Blue,Spring,Women,4
+Mask and Peel	294.08,White,Yellow,Spring,Women,12
+Mens Grooming Kit	2900.00,Gold,None,Spring,Men,1
+Messenger Bag	1976.89,Black,Brown,Summer,Unisex,44
+Mobile Pouch	538.62,Brown,Black,Summer,Women,47
+Nail Essentials	112.50,White,Purple,Spring,Women,6
+Nail Polish	163.56,Pink,Brown,Spring,Women,329
+Necklace and Chains	1179.81,Gold,Silver,Fall,Women,160
+Nehru Jackets	1430.00,Brown,Blue,Summer,Men,5
+Nightdress	948.82,Pink,Blue,Winter,Women,189
+Rain Trousers	1295.00,Black,Navy Blue,Summer,Men,2
+Sarees	3356.65,Multi,Green,Fall,Women,427
+Scarves	737.17,Black,Grey,Summer,Women,119
+Shirts	1389.88,Blue,White,Fall,Men,3217
+Shoe Accessories	346.52,Black,Brown,Fall,Unisex,23
+Shoe Laces	190.00,Black,None,Summer,Unisex,1
+Shorts	1151.79,Black,Blue,Summer,Men,547
+Shrug	1304.50,Pink,Maroon,Summer,Women,6
+Socks	309.14,Black,White,Summer,Men,686
+Sports Sandals	1813.10,Black,Navy Blue,Summer,Men,67
+Sports Shoes	3927.46,White,Black,Summer,Men,2036
+Stockings	763.53,Black,Grey,Fall,Women,32
+Sweatshirts	1908.91,Black,Grey,Fall,Men,285
+Swimwear	807.59,Black,Brown,Summer,Women,17
+Ties	974.16,Black,Blue,Summer,Men,263
+Ties and Cufflinks	3050.50,Brown,Black,Summer,Women,2
+Tights	1404.11,Black,Multi,Summer,Women,9
+Track Pants	1550.27,Black,Grey,Summer,Men,304
+Tracksuits	2846.72,Black,Navy Blue,Fall,Men,29
+Trolley Bag	5516.33,Black,None,Summer,Unisex,3
+Trousers	1501.05,Black,Grey,Summer,Men,530
+Tshirts	899.45,White,Black,Summer,Men,7067
+Umbrellas	999.00,Purple,Blue,Summer,Women,6
+Waist Pouch	995.94,Black,Grey,Winter,Unisex,17
+Waistcoat	1540.33,Blue,Grey,Summer,Men,15
+Watches	4522.67,Black,White,Winter,Men,2542
+Water Bottle	480.82,Black,Blue,Fall,Unisex,11
+Wristbands	361.57,Black,Red,Fall,Unisex,7
